@@ -1,6 +1,6 @@
 import express from "express"
 const app = express()
-const port = process.env.PORT || 8080
+const port = process.env.PORT || 5000
 import path from "path"
 
 const __dirname = path.resolve()
